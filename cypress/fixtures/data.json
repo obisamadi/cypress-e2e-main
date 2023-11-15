@@ -1,0 +1,13 @@
+{
+  "firstname": "Ahamd",
+  "lastname": "Ali",
+  "email": "AhmadAli@gmail.com",
+  "phone": "12312311111",
+  "bill_address":"12-A London bridge",
+  "bill_city":"New York",
+  "bill_zip":"58098",
+  "card_firstname": "Ahamd",
+  "card_lastname":"Ali",
+  "card_cardnumber":"4242424242424242",
+  "card_cvv":"123"
+}
